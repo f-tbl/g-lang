@@ -1,0 +1,25 @@
+
+--ASSIGNMENT--
+= -> Base Assignment
+
+--ARICMETIC ASSIGNMENT--
++= -> Addition Assignment
+/= -> Division Assignment
+**= -> Exponentiation Assignment
+*= -> Multiplication Assignment
+%= -> Remainder Assignment
+-= -> Subtraction Assignment
+
+
+--BITWISE ASSIGNMENT--
+&= -> Bitwise AND Assignment
+|= -> Bitwise OR Assignment
+^= -> Bitwise XOR Assignment
+<<= -> Left Shift Assignment
+>>= -> Right Shift Assignment
+>>>= -> Unsigned Right Shift Assignment
+
+--LOGICAL ASSIGNMENT--
+&&= -> Logical AND Assignment
+||= -> Logical OR Assignment
+??= -> Logical Nullish Assignment

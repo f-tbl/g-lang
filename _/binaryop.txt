@@ -1,0 +1,30 @@
+--ARICMETIC OPERATORS--
++ -> Addition Operator
+/ -> Division Operator
+** -> Exponentiation Operator
+* -> Multiplication Operator
+% -> Remainder Operator
+
+--BITWISE OPERATORS--
+& -> Bitwise AND
+| -> Bitwise OR
+^ -> Bitwise XOR
+<< -> Left Shift Operator
+>> -> Right Shift Operator
+>>> -> Unsigned Right Shift Operator
+
+--LOGICAL OPERATORS--
+&& -> Logical AND
+|| -> Logical OR
+?? -> Nullish Coalescing Operator
+> -> Greater Than Operator
+< -> Less Than Operator
+== -> Equality Operator
+=== -> Strict Equality Operator
+!= -> Inequality Operator
+!== -> Strict Inequality Operator
+>= -> Greater Than or Equal To Operator
+<= -> Less Than or Equal To Operator 
+
+--CHAIN OPERATOR (TF IS THIS?)--
+|> -> Pipeline Operator
